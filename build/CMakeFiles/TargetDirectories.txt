@@ -1,0 +1,3 @@
+D:/PERSONAL FILES/Full Sail Classwork/P&P5/ProjectTemplate - Copy/build/CMakeFiles/PPIV.dir
+D:/PERSONAL FILES/Full Sail Classwork/P&P5/ProjectTemplate - Copy/build/CMakeFiles/ALL_BUILD.dir
+D:/PERSONAL FILES/Full Sail Classwork/P&P5/ProjectTemplate - Copy/build/CMakeFiles/ZERO_CHECK.dir

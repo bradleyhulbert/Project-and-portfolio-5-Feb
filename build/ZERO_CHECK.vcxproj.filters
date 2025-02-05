@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\38112049c545b3f50a7d6444d18eece0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8CF13F5D-B726-3541-85F6-1CE25DFED87F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

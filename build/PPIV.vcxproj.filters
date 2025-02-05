@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\PPIV.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\CCL.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\GameManager.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\LevelComponents.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\ModelManager.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\VulkanBuffers.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\VulkanRenderer.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\GAME\Player.cpp">
+      <Filter>Source\GAME</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\UTIL\GameConfig.cpp">
+      <Filter>Source\UTIL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\UTIL\Utilities.cpp">
+      <Filter>Source\UTIL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\APP\Window.hpp">
+      <Filter>Source\APP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\CCL.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\DrawComponents.h">
+      <Filter>Source\DRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\Utility\FileIntoString.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\Utility\h2bParser.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\DRAW\Utility\load_data_oriented.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\GAME\GameComponents.h">
+      <Filter>Source\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\UTIL\GameConfig.h">
+      <Filter>Source\UTIL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\UTIL\Utilities.h">
+      <Filter>Source\UTIL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Source\precompiled.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\entt-3.13.1\single_include\entt\entt.hpp">
+      <Filter>entt-3.13.1\single_include\entt</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\gateware-main\Gateware.h">
+      <Filter>gateware-main</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\inifile-cpp-master\include\inicpp.h">
+      <Filter>inifile-cpp-master\include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\PPIV.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\PPIV.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\PPIV.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\build\CMakeFiles\PPIV.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Shaders\LevelPixel.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\Shaders\LevelVertex.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="D:\PERSONAL FILES\Full Sail Classwork\P&amp;P5\ProjectTemplate - Copy\defaults.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{C7DEB5EB-54EE-3B69-8C66-5B6A232ADF79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{8CF6B12F-ABC3-3F5E-ADCD-63D56717C856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{DC8329F5-F0ED-340F-8D26-1518742929FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{853E4127-7874-376B-8F12-6190AF36D793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\APP">
+      <UniqueIdentifier>{6250A6F9-36EA-37BD-89F7-88D876FA46B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DRAW">
+      <UniqueIdentifier>{3D68BB0B-2C82-3B95-A060-E3F68902DA27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DRAW\Utility">
+      <UniqueIdentifier>{70C6C384-20D3-37E7-81D1-4276DB8A71B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GAME">
+      <UniqueIdentifier>{F9A7CE64-0F16-3EA5-B2D6-BDEFF9BD00E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UTIL">
+      <UniqueIdentifier>{9E9F1E6D-84E5-3FC0-AF89-9E440BE5CB3F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1">
+      <UniqueIdentifier>{1353D0D2-C04F-3741-9A72-6638F1286519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1\single_include">
+      <UniqueIdentifier>{203531E1-5E6E-34A5-AEC1-C071A2878DCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1\single_include\entt">
+      <UniqueIdentifier>{5CFD981C-CD7F-36CE-9062-05C1641BEABD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gateware-main">
+      <UniqueIdentifier>{159A3CAE-689B-3F29-B6DF-E6BB71AADCF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inifile-cpp-master">
+      <UniqueIdentifier>{E05554BA-3AE6-3A89-AA50-C798EEA17491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inifile-cpp-master\include">
+      <UniqueIdentifier>{ED3312B8-1B38-30D6-957D-C35D1CEE56F1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
